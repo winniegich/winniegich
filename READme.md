@@ -77,7 +77,7 @@ A full-stack system for managing home WiFi — allowing parents to block sites, 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:winniegichuki@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:winnienyaguthiigichuki@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/winniegich"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="www.linkedin.com/in/winnie-nyaguthii-67036b27b"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
