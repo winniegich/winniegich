@@ -41,6 +41,14 @@ A full-stack system for managing home WiFi — allowing parents to block sites, 
 
 ---
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+*(This section auto-updates with my latest posts — stay tuned!)*
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,35 +82,14 @@ A full-stack system for managing home WiFi — allowing parents to block sites, 
 
 ---
 
-## 📰 Latest Blog Posts
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Blog animation" />
-</p>
-
-> ✍️ Sharing what I learn and build along the way.
-
-- 🧠 [Mastering Git & GitHub — From Beginner to Pro](https://medium.com/@winniegichuki/mastering-git-and-github-beginner-to-pro)  
-- 🚀 [Building My First Full-Stack WiFi Hub App with Node.js & Flutter](https://medium.com/@winniegichuki/home-wifi-hub-project-overview)  
-- 🔐 [Exploring Cybersecurity Basics for Developers](https://medium.com/@winniegichuki/cybersecurity-basics-for-developers)
-
-📚 *More blogs coming soon…*
-
----
-
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:winnienyaguthiigichuki@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:winniegichuki@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/winniegich"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="www.linkedin.com/in/winnie-nyaguthii-67036b27b"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@winniegichuki"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://linkedin.com/in/winniegichuki"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ⭐️ **“Code is like humor. When you have to explain it, it’s bad.” — Cory House**
-
----
-
