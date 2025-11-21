@@ -1,19 +1,14 @@
-name: Update Latest Blog Posts
-
+name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs once every day at midnight UTC
-  workflow_dispatch:       # Allows you to manually trigger the workflow
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Fetch latest blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@winniegich"
+          feed_list: "https://medium.com/feed/@YOUR_MEDIUM_USERNAME"
