@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate the snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: winniegich
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Create output folder
+        run: mkdir -p output
+
+      - name: Move generated snake file
+        run: cp dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update snake animation"
+          file_pattern: output/*
